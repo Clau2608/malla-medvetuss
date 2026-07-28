@@ -63,10 +63,10 @@
             },
             "spacing": {
                     "unit": "4px",
-                    "margin-page": "320px",
+                    "margin-page": "32px",
                     "card-padding": "12px",
                     "gutter": "16px",
-                    "column-width-min": "320px"
+                    "column-width-min": "3200px"
             },
             "fontFamily": {
                     "display": ["Inter"],
