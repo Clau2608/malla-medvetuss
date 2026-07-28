@@ -57,16 +57,16 @@
             },
             "borderRadius": {
                     "DEFAULT": "0.125rem",
-                    "lg": "0.25rem",
+                    "lg": "0.75rem",
                     "xl": "0.75rem",
                     "full": "0.75rem"
             },
             "spacing": {
                     "unit": "4px",
-                    "margin-page": "32px",
+                    "margin-page": "320px",
                     "card-padding": "12px",
                     "gutter": "16px",
-                    "column-width-min": "320px"
+                    "column-width-min": "32px"
             },
             "fontFamily": {
                     "display": ["Inter"],
