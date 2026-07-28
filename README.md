@@ -63,10 +63,10 @@
             },
             "spacing": {
                     "unit": "4px",
-                    "margin-page": "32px",
+                    "margin-page": "320px",
                     "card-padding": "12px",
                     "gutter": "16px",
-                    "column-width-min": "3200px"
+                    "column-width-min": "320px"
             },
             "fontFamily": {
                     "display": ["Inter"],
@@ -264,7 +264,7 @@
         },
         {
             sem: 3, courses: [
-                { id: 'MEVE_CA01', name: 'Inmunología', credits: 5, area: 'pathology', prereqs: ['MEVE_BA01'] },
+                { id: 'MEVE_CA01', name: 'Inmunología Veterinaria', credits: 5, area: 'pathology', prereqs: ['MEVE_BA01'] },
                 { id: 'MEVE_CA02', name: 'Fisiología Vet', credits: 6, area: 'basic', prereqs: ['MEVE_BA02', 'DCEX_0027'] },
                 { id: 'MEVE_CA03', name: 'Microbiología', credits: 6, area: 'pathology', prereqs: ['DBIO_1084'] },
                 { id: 'MEVE_CA04', name: 'Reprod y Mejoramiento', credits: 5, area: 'production', prereqs: ['MEVE_BA02', 'MEVE_BA03'] },
