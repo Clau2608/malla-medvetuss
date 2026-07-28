@@ -242,20 +242,20 @@
     const curriculumData = [
         {
             sem: 1, courses: [
-                { id: 'MEVE_AA01', name: 'Intro a Med Vet', credits: 5, area: 'basic', prereqs: [] },
+                { id: 'MEVE_AA01', name: 'Introducción a Medicina Veterinaria', credits: 5, area: 'basic', prereqs: [] },
                 { id: 'DBIO_1084', name: 'Biología Celular', credits: 5, area: 'basic', prereqs: [] },
                 { id: 'FORI_0001', name: 'Antropología', credits: 3, area: 'general', prereqs: [] },
-                { id: 'MEVE_AA02', name: 'Conservación Silvestre', credits: 5, area: 'basic', prereqs: [] },
-                { id: 'MEVE_AA03', name: 'Zoología Vet', credits: 5, area: 'basic', prereqs: [] },
-                { id: 'DQUI_1050', name: 'Química Gral', credits: 7, area: 'basic', prereqs: [] }
+                { id: 'MEVE_AA02', name: 'Conservación de la Vida Silvestre', credits: 5, area: 'basic', prereqs: [] },
+                { id: 'MEVE_AA03', name: 'Zoología Veterinaria', credits: 5, area: 'basic', prereqs: [] },
+                { id: 'DQUI_1050', name: 'Química General', credits: 7, area: 'basic', prereqs: [] }
             ]
         },
         {
             sem: 2, courses: [
-                { id: 'MEVE_BA01', name: 'Embrio-Histología', credits: 6, area: 'basic', prereqs: ['DBIO_1084'] },
-                { id: 'MEVE_BA02', name: 'Bioquímica', credits: 5, area: 'basic', prereqs: ['DQUI_1050', 'DBIO_1084'] },
+                { id: 'MEVE_BA01', name: 'Embrio-Histología Veterinaria', credits: 6, area: 'basic', prereqs: ['DBIO_1084'] },
+                { id: 'MEVE_BA02', name: 'Bioquímica Veterinaria', credits: 5, area: 'basic', prereqs: ['DQUI_1050', 'DBIO_1084'] },
                 { id: 'FORI_0002', name: 'Ética', credits: 3, area: 'general', prereqs: ['FORI_0001'] },
-                { id: 'MEVE_BA03', name: 'Anatomía Vet Gral', credits: 5, area: 'basic', prereqs: [] },
+                { id: 'MEVE_BA03', name: 'Anatomía Veterinaria General', credits: 5, area: 'basic', prereqs: [] },
                 { id: 'DCEX_0027', name: 'Física Médica', credits: 7, area: 'basic', prereqs: [] },
                 { id: 'MEVE_BB01', name: 'Una Salud', credits: 4, area: 'public-health', prereqs: [] }
             ]
