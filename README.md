@@ -66,7 +66,7 @@
                     "margin-page": "32px",
                     "card-padding": "12px",
                     "gutter": "16px",
-                    "column-width-min": "240px"
+                    "column-width-min": "3200px"
             },
             "fontFamily": {
                     "display": ["Inter"],
