@@ -56,10 +56,10 @@
                     "inverse-on-surface": "#eaf1ff"
             },
             "borderRadius": {
-                    "DEFAULT": "0.125rem",
-                    "lg": "0.25rem",
-                    "xl": "0.5rem",
-                    "full": "0.75rem"
+                    "DEFAULT": "1rem",
+                    "lg": "1rem",
+                    "xl": "1rem",
+                    "full": "1rem"
             },
             "spacing": {
                     "unit": "4px",
