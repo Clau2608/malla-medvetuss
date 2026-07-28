@@ -58,7 +58,7 @@
             "borderRadius": {
                     "DEFAULT": "0.125rem",
                     "lg": "0.25rem",
-                    "xl": "0.5rem",
+                    "xl": "0.75rem",
                     "full": "0.75rem"
             },
             "spacing": {
@@ -66,7 +66,7 @@
                     "margin-page": "32px",
                     "card-padding": "12px",
                     "gutter": "16px",
-                    "column-width-min": "3200px"
+                    "column-width-min": "320px"
             },
             "fontFamily": {
                     "display": ["Inter"],
