@@ -262,31 +262,31 @@
         },
         {
             sem: 3, courses: [
-                { id: 'MEVE_CA01', name: 'Inmunología', credits: 5, area: 'pathology', prereqs: [] },
-                { id: 'MEVE_CA02', name: 'Fisiología Vet', credits: 6, area: 'basic', prereqs: ['MEVE_BA02'] },
-                { id: 'MEVE_CA03', name: 'Microbiología', credits: 6, area: 'pathology', prereqs: ['DBIO_1084'] },
-                { id: 'MEVE_CA04', name: 'Reprod y Mejoramiento', credits: 5, area: 'production', prereqs: ['MEVE_BA02', 'MEVE_BA03'] },
-                { id: 'MEVE_CA05', name: 'Anatomía Comparada', credits: 4, area: 'basic', prereqs: ['MEVE_BA03'] },
-                { id: 'ELECDGEE01', name: 'Gestión Personal', credits: 4, area: 'management', prereqs: [] }
+                { id: 'MEVE_CA01', name: 'Inmunología Veterinaria', credits: 5, area: 'pathology', prereqs: [] },
+                { id: 'MEVE_CA02', name: 'Fisiología Veterinaria', credits: 6, area: 'basic', prereqs: ['MEVE_BA02'] },
+                { id: 'MEVE_CA03', name: 'Microbiología y Virología', credits: 6, area: 'pathology', prereqs: ['DBIO_1084'] },
+                { id: 'MEVE_CA04', name: 'Reproducción y Mejoramiento Genético', credits: 5, area: 'production', prereqs: ['MEVE_BA02', 'MEVE_BA03'] },
+                { id: 'MEVE_CA05', name: 'Anatomía Veterinaria Comparada', credits: 4, area: 'basic', prereqs: ['MEVE_BA03'] },
+                { id: 'ELECDGEE01', name: 'Gestión Personal y Habilidades para la vida', credits: 4, area: 'management', prereqs: [] }
             ]
         },
         {
             sem: 4, courses: [
-                { id: 'MEVE_DB01', name: 'Fisiopatología', credits: 4, area: 'pathology', prereqs: ['MEVE_CA02'] },
-                { id: 'MEVE_DA02', name: 'Enfermedades Inf.', credits: 4, area: 'clinical', prereqs: ['MEVE_CA03'] },
-                { id: 'MEVE_DA03', name: 'Enf Parasitarias', credits: 5, area: 'clinical', prereqs: [] },
-                { id: 'MEVE_DA04', name: 'Gineco-Obstetricia', credits: 6, area: 'clinical', prereqs: ['MEVE_CA04'] },
-                { id: 'MEVE_DB02', name: 'Ecología', credits: 7, area: 'basic', prereqs: [] },
-                { id: 'MEVE_DA05', name: 'Hito Evaluativo I', credits: 4, area: 'general', prereqs: [] }
+                { id: 'MEVE_DB01', name: 'Fisiopatología Veterinaria', credits: 4, area: 'pathology', prereqs: ['MEVE_CA02'] },
+                { id: 'MEVE_DA02', name: 'Enfermedades Infecciosas', credits: 4, area: 'clinical', prereqs: ['MEVE_CA03'] },
+                { id: 'MEVE_DA03', name: 'Enfermedades Parasitarias', credits: 5, area: 'clinical', prereqs: [] },
+                { id: 'MEVE_DA04', name: 'Gineco-Obstetricia y Andrología Veterinaria', credits: 6, area: 'clinical', prereqs: ['MEVE_CA04'] },
+                { id: 'MEVE_DB02', name: 'Ecología y Evolución Animal', credits: 7, area: 'basic', prereqs: [] },
+                { id: 'MEVE_DA05', name: 'Hito Evaluativo Integrativo', credits: 4, area: 'general', prereqs: [] }
             ]
         },
         {
             sem: 5, courses: [
-                { id: 'MEVE_EB01', name: 'Patología Gral', credits: 6, area: 'pathology', prereqs: ['MEVE_DB01'] },
-                { id: 'MEVE_EB02', name: 'Farmacología', credits: 7, area: 'clinical', prereqs: ['MEVE_DB01'] },
-                { id: 'MEVE_EA03', name: 'Nutrición', credits: 5, area: 'production', prereqs: [] },
-                { id: 'MEVE_EB03', name: 'Metodología Inv', credits: 5, area: 'management', prereqs: [] },
-                { id: 'MEVE_EB04', name: 'Emprendimiento', credits: 4, area: 'management', prereqs: [] },
+                { id: 'MEVE_EB01', name: 'Patología General', credits: 6, area: 'pathology', prereqs: ['MEVE_DB01'] },
+                { id: 'MEVE_EB02', name: 'Farmacología Veterinaria', credits: 7, area: 'clinical', prereqs: ['MEVE_DB01'] },
+                { id: 'MEVE_EA03', name: 'Nutrición y Alimentación Animal', credits: 5, area: 'production', prereqs: [] },
+                { id: 'MEVE_EB03', name: 'Metodología de la Investigación y Estadística', credits: 5, area: 'management', prereqs: [] },
+                { id: 'MEVE_EB04', name: 'Emprendimiento y Formación en Negocios', credits: 4, area: 'management', prereqs: [] },
                 { id: 'FORI_0003', name: 'Persona y Sociedad', credits: 3, area: 'general', prereqs: [] }
             ]
         },
