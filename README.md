@@ -57,7 +57,7 @@
             },
             "borderRadius": {
                     "DEFAULT": "0.125rem",
-                    "lg": "0.75rem",
+                    "lg": "1.5rem",
                     "xl": "0.75rem",
                     "full": "0.75rem"
             },
