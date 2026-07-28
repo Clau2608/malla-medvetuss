@@ -244,7 +244,7 @@
     const curriculumData = [
         {
             sem: 1, courses: [
-                { id: 'MEVE_AA01', name: 'Intro a Med Vet', credits: 5, area: 'basic', prereqs: [] },
+                { id: 'MEVE_AA01', name: 'Introducción a la Medicina Veterinaria', credits: 5, area: 'basic', prereqs: [] },
                 { id: 'DBIO_1084', name: 'Biología Celular', credits: 5, area: 'basic', prereqs: [] },
                 { id: 'FORI_0001', name: 'Antropología', credits: 3, area: 'general', prereqs: [] },
                 { id: 'MEVE_AA02', name: 'Conservación Silvestre', credits: 5, area: 'basic', prereqs: [] },
